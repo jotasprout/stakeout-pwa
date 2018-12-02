@@ -6,3 +6,4 @@ if ("serviceWorker" in navigator) {
             console.log("Serviceworker registration failed cuz: ", err);
         })
 }
+
